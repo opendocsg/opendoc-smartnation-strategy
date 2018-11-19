@@ -1,11 +1,22 @@
-title: OpenDoc Template
+title: 'Smart Nation: The Way Forward'
 remote_theme: opengovsg/opendoc-theme
 timezone: Asia/Singapore
-elastic_search:
-  index: template
-  doctype: bare
-environment: DEV
+repository: opendocsg/opendoc-smartnation-strategy
+baseurl: ''
+server_PROD: https://search.opendoc.sg
+server_DEV: https://search-staging.opendoc.sg
 section_order:
+  - Introduction
+  - Digital Government, Digital Economy and Digital Society
+  - System Foundations
+  - People and Culture
+  - Smart Nation Projects
+  - Strengthening the academia-industry-Government nexus
+  - Make strategic bets in artificial intelligence and other frontier technologies
+  - Strengthen Singapore’s collaboration with the international community
+  - What Can I Do for Smart Nation?
+  - Conclusion
 styling_options:
-  primary_brand_color: '#444'
-  logo_path: /assets/logo.png
+  primary_brand_color: '#c91632'
+  logo_path: '/assets/images/smartnation_logo.png'
+  opendoc_logo_path: '/assets/images/opendoc_logo.png'
