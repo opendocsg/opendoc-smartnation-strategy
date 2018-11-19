@@ -49,15 +49,15 @@ _Source: Smart Nation and Digital Government Office_
 
 12. Our priority is to harness technology to address national challenges and drive transformation in key domains: **health, transport, urban solutions, finance, and education.**
     <ul>
-    <li> **Health.** Our healthcare system will move beyond healthcare to health, as Singaporeans will be better equipped and empowered to take care of their own health. Healthcare services, where they are needed, will be delivered efficiently. Singaporeans are already using wearable devices or smartphones to monitor their health and activities, and this data can empower individuals and inform service delivery. </li>
+    <li> <b>Health.</b> Our healthcare system will move beyond healthcare to health, as Singaporeans will be better equipped and empowered to take care of their own health. Healthcare services, where they are needed, will be delivered efficiently. Singaporeans are already using wearable devices or smartphones to monitor their health and activities, and this data can empower individuals and inform service delivery. </li>
 
-    <li> **Transport.** Data analytics, smart systems and autonomous vehicles are key solutions for the future of transport planning and operations. Our roads and transport system will be optimised, making traffic smoother, public transport more comfortable and reliable, and the air cleaner with less need for private cars. </li>
+    <li> <b>Transport.</b> Data analytics, smart systems and autonomous vehicles are key solutions for the future of transport planning and operations. Our roads and transport system will be optimised, making traffic smoother, public transport more comfortable and reliable, and the air cleaner with less need for private cars. </li>
 
-    <li> **Urban Solutions.** Our homes and estates will be safer, more comfortable and more sustainable. The use of sensors and smart systems will improve the effectiveness of municipal services, save energy, and reduce the current reliance on manpower. </li>
+    <li> <b>Urban Solutions.</b> Our homes and estates will be safer, more comfortable and more sustainable. The use of sensors and smart systems will improve the effectiveness of municipal services, save energy, and reduce the current reliance on manpower. </li>
 
-    <li> **Finance. **Singapore will continue to be a leading regional and global financial hub, powered by financial institutions that readily adopt technologies for better customer service, greater efficiencies in trade finance, strengthened supervision and reduced compliance cost. </li>
+    <li> <b>Finance.</b> Singapore will continue to be a leading regional and global financial hub, powered by financial institutions that readily adopt technologies for better customer service, greater efficiencies in trade finance, strengthened supervision and reduced compliance cost. </li>
 
-    <li> **Education. **Digital technology unlocks a new realm of self-directed and collaborative learning. Relationships between students, teachers and parents, as well as capabilities of the physical infrastructure are augmented to create a holistic and conducive environment for effective learning. Routine and repetitive tasks are automated to help educators focus on the work that matters. </li>
+    <li> <b>Education.</b> Digital technology unlocks a new realm of self-directed and collaborative learning. Relationships between students, teachers and parents, as well as capabilities of the physical infrastructure are augmented to create a holistic and conducive environment for effective learning. Routine and repetitive tasks are automated to help educators focus on the work that matters. </li>
     </ul>
 
 {:start="13"}
