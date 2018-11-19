@@ -20,3 +20,4 @@ styling_options:
   primary_brand_color: '#c91632'
   logo_path: '/assets/images/smartnation_logo.png'
   opendoc_logo_path: '/assets/images/opendoc_logo.png'
+  feedback_url: https://form.gov.sg/forms/govtech/5bf2704a59651c000f397fbb
