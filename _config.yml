@@ -2,6 +2,9 @@ title: 'Smart Nation: The Way Forward'
 remote_theme: opendocsg/opendoc-theme
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-smartnation-strategy
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
 baseurl: '/opendoc-smartnation-strategy'
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
