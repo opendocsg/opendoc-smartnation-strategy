@@ -5,9 +5,10 @@ repository: opendocsg/opendoc-smartnation-strategy
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
-baseurl: '/opendoc-smartnation-strategy'
+baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+google_analytics: UA-113717369-9
 section_order:
   - Introduction
   - Digital Government, Digital Economy and Digital Society
