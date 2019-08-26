@@ -11,16 +11,16 @@ server_DEV: https://search-staging.opendoc.sg
 offline: false
 google_analytics: UA-113717369-9
 order:
-  - Introduction
-  - Digital Government, Digital Economy and Digital Society
-  - System Foundations
-  - People and Culture
-  - Smart Nation Projects
-  - Strengthening the academia-industry-Government nexus
-  - Make strategic bets in artificial intelligence and other frontier technologies
-  - 'Strengthen Singapore’s collaboration with the international community'
-  - What Can I Do for Smart Nation?
-  - Conclusion
+  - "Introduction"
+  - "Digital Government, Digital Economy and Digital Society"
+  - "System Foundations"
+  - "People and Culture"
+  - "Smart Nation Projects"
+  - "Strengthening the academia-industry-Government nexus"
+  - "Make strategic bets in artificial intelligence and other frontier technologies"
+  - "Strengthen Singapore's collaboration with the international community"
+  - "What Can I Do for Smart Nation?"
+  - "Conclusion"
 styling_options:
   primary_brand_color: '#c91632'
   logo_path: '/assets/images/smartnation_logo.png'
