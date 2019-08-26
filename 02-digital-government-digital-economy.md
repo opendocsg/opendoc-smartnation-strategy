@@ -71,9 +71,9 @@ The Digital Government Blueprint sets out bold targets to be achieved by 2023:
     <img src="assets/images/image7.png" height="120px"/>
 </p>
 
-{:start="25"}
+{:start="24"}
 
-25.	Together, the public and private sectors will drive **sectoral masterplans** in key domains and industry sectors. These will outline how technology will be used to improve lives and create new business opportunities. These include the **Industry Transformation Maps** as well as domain roadmaps in health, education, transport and urban solutions, finance and employment? (sync with the above)
+24.	Together, the public and private sectors will drive **sectoral masterplans** in key domains and industry sectors. These will outline how technology will be used to improve lives and create new business opportunities. These include the **Industry Transformation Maps** as well as domain roadmaps in health, education, transport and urban solutions and finance.
 
 ## Digital Society
 
