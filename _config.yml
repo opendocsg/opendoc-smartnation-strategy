@@ -1,5 +1,5 @@
 title: 'Smart Nation: The Way Forward'
-remote_theme: opendocsg/opendoc-theme
+remote_theme: opendocsg/opendoc-theme@v2
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-smartnation-strategy
 plugins:
@@ -8,8 +8,9 @@ plugins:
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
+offline: false
 google_analytics: UA-113717369-9
-section_order:
+order:
   - Introduction
   - Digital Government, Digital Economy and Digital Society
   - System Foundations
