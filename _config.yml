@@ -1,28 +1,41 @@
 title: 'Smart Nation: The Way Forward'
-remote_theme: opendocsg/opendoc-theme@v2
+
+remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-smartnation-strategy
 plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
+  
 baseurl: ''
 server_PROD: https://search.opendoc.sg
 server_DEV: https://search-staging.opendoc.sg
 offline: false
 google_analytics: UA-113717369-9
-order:
-  - "Introduction"
-  - "Digital Government, Digital Economy and Digital Society"
-  - "System Foundations"
-  - "People and Culture"
-  - "Smart Nation Projects"
-  - "Strengthening the academia-industry-Government nexus"
-  - "Make strategic bets in artificial intelligence and other frontier technologies"
-  - "Strengthen Singapore's collaboration with the international community"
-  - "What Can I Do for Smart Nation?"
-  - "Conclusion"
+
 styling_options:
   primary_brand_color: '#c91632'
   logo_path: '/assets/images/smartnation_logo.png'
   opendoc_logo_path: '/assets/images/opendoc_logo.png'
   feedback_url: https://form.gov.sg/forms/govtech/5bf2704a59651c000f397fbb
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+
+folders:
+  - name: '/'
+    title: 'Family Justice Courts Practice Directions'
+    subtitle: ''
+    order:
+      - "01-introduction.md"
+      - "02-digital-government-digital-economy.md"
+      - "03-system-foundations.md"
+      - "04-people-and-culture.md"
+      - "05-smart-nation-projects.md"
+      - "06-strengthening-nexus.md"
+      - "07-make-strategic-bets.md"
+      - "08-strengthen-collaboration.md"
+      - "09-what-can-i-do.md"
+      - "10-conclusion.md"
