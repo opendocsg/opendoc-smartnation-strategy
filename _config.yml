@@ -26,7 +26,7 @@ hide_toolbar:
 
 folders:
   - name: '/'
-    title: 'Family Justice Courts Practice Directions'
+    title: 'Smart Nation: The Way Forward'
     subtitle: ''
     order:
       - "01-introduction.md"
